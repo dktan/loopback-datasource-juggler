@@ -38,7 +38,7 @@
     "should": "^8.0.2"
   },
   "dependencies": {
-    "async": "~1.0.0",
+    "async": "2.0.0-rc.6",
     "bluebird": "^3.1.1",
     "debug": "^2.1.1",
     "depd": "^1.0.0",
